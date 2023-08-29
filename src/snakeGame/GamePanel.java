@@ -8,6 +8,7 @@ import java.util.Random;
 
 import javax.swing.JPanel;
 
+
 //body of the snake game
 @SuppressWarnings("serial")
 public class GamePanel extends JPanel implements ActionListener
@@ -26,7 +27,8 @@ public class GamePanel extends JPanel implements ActionListener
 	
 	final int[]x = new int[GAME_UNITS];
 	final int[]y = new int[GAME_UNITS];
-	
+
+	//important variables
 	int bodyParts=6;
 	int applesEaten=0;
 	int appleX;
