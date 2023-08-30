@@ -2,7 +2,7 @@
 
 **Java Snake Game**
 
-The Java Snake Game is a classic arcade-style game inspired by the popular Snake Xenzia. This is the first Java project that allowed me to further develop my Java programming skills while delving into game development.
+The Java Snake Game is a classic arcade-style game inspired by the popular Snake Xenzia. This is my first Java project that allowed me to develop my Java programming skills further while delving into game development.
 
 **Features:**
 - Control a snake on the game board using arrow keys.
