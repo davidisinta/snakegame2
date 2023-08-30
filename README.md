@@ -9,6 +9,6 @@ The Java Snake Game is a classic arcade-style game inspired by the popular Snake
 - Eat apples to increase the snake's size and score.
 - Avoid collisions with the game walls and the snake's own body.
 
-##video walkthrough
+## video-walkthrough
 https://github.com/davidisinta/snakegame2/assets/83705759/c1afea9a-0b09-4485-9dba-afbb19b0d287
 
