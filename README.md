@@ -10,5 +10,6 @@ The Java Snake Game is a classic arcade-style game inspired by the popular Snake
 - Avoid collisions with the game walls and the snake's own body.
 
 ## video-walkthrough
-https://github.com/davidisinta/snakegame2/assets/83705759/c1afea9a-0b09-4485-9dba-afbb19b0d287
+https://github.com/davidisinta/snakegame2/assets/83705759/60714794-b671-4485-a22a-19561298f560
+
 
